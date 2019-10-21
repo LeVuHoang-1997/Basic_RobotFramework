@@ -1,0 +1,4 @@
+*** Test Cases ***,${username},${password},[Tags],[Documentat ion]
+Login with user demo and password empty,demo,empty,1,This is a test case documentati on of the first one.
+Login with user demo and password FooBar,demo,FooBar,2,
+Login with user empty and password mode,empty,mode,3,"This test case has the Tags 1,2,3 and 4 assigned."
